@@ -12,9 +12,9 @@
 
 После установки программы нужно будет представиться программе, для этого, необходимо ввести в терминале следующие команды:
 
-* git config --global user.name "ваше имя"
+* **git config --global user.name "ваше имя"**
 
-* git config --global user.email "ваш email"
+* **git config --global user.email "ваш email"**
 
 
 # Основные команды
